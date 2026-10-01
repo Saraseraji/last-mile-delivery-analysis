@@ -234,6 +234,7 @@ These recommendations should be validated with additional operational data befor
 ---
 
 ## Tableau Dashboard
+![Tableau Dashboard](image/dashboard.png)
 
 A Tableau dashboard was developed to communicate the main analytical findings.
 
